@@ -1,0 +1,159 @@
+2021-09-14 11:07:22 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x2c56364a0; archive(resolved)='<IDEArchive: 0x149bc9310>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x2c56364a0; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x16ac9b4c0; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x2c7150690; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x119ed97d0; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x14e35bf30; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x13a9bcad0; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x13a8be2c0; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x13a8bde80; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x13a8be130; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x13ab74af0; teamID='TT64352TY2', teamName='Tarun Valecha', teamType='Individual', username='getsuperlife@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x129efc020; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='(null)'>
+	<IDEDistributionContext: 0x2c707f210; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x16fc8e6e0>', team='(null)'>
+	<IDEDistributionContext: 0x2c7278930; archive = '<IDEArchive: 0x149bc9310>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x2c56364a0>
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionCreateDestRootStep
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionCopyItemStep
+2021-09-14 11:07:22 +0000  Running /usr/bin/ditto '-V' '/Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app' '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app'
+2021-09-14 11:07:22 +0000  >>> Copying /Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app 
+2021-09-14 11:07:22 +0000  copying file ./_CodeSignature/CodeResources ... 
+2021-09-14 11:07:22 +0000  4101 bytes for ./_CodeSignature/CodeResources
+2021-09-14 11:07:22 +0000  copying file ./super-ui-ios ... 
+2021-09-14 11:07:22 +0000  189792 bytes for ./super-ui-ios
+2021-09-14 11:07:22 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2021-09-14 11:07:22 +0000  936 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2021-09-14 11:07:22 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-09-14 11:07:22 +0000  1197 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2021-09-14 11:07:22 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2021-09-14 11:07:22 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2021-09-14 11:07:22 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-09-14 11:07:22 +0000  2486 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-09-14 11:07:22 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-09-14 11:07:22 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-09-14 11:07:22 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-09-14 11:07:22 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-09-14 11:07:22 +0000  copying file ./Assets.car ... 
+2021-09-14 11:07:22 +0000  1168703 bytes for ./Assets.car
+2021-09-14 11:07:22 +0000  copying file ./embedded.mobileprovision ... 
+2021-09-14 11:07:22 +0000  14215 bytes for ./embedded.mobileprovision
+2021-09-14 11:07:22 +0000  copying file ./Info.plist ... 
+2021-09-14 11:07:22 +0000  1475 bytes for ./Info.plist
+2021-09-14 11:07:22 +0000  copying file ./PkgInfo ... 
+2021-09-14 11:07:22 +0000  8 bytes for ./PkgInfo
+2021-09-14 11:07:22 +0000  /usr/bin/ditto exited with 0
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionEmbedProfileStep
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionInfoPlistStep
+2021-09-14 11:07:22 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionItemRemovalStep
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2021-09-14 11:07:22 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2021-09-14 11:07:22 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2021-09-14 11:07:22 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app/super-ui-ios' '-l' '-o' '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app/super-ui-ios'
+2021-09-14 11:07:22 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2021-09-14 11:07:22 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionSymbolsStep
+2021-09-14 11:07:22 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionAppThinningStep
+2021-09-14 11:07:22 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionArchThinningStep
+2021-09-14 11:07:22 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app/super-ui-ios' '-verify_arch' 'arm64e'
+2021-09-14 11:07:22 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2021-09-14 11:07:22 +0000  Skipping architecture thinning for item "super-ui-ios" because arch "arm64e" wasn't found
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionODRStep
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionStripXattrsStep
+2021-09-14 11:07:22 +0000  Running /usr/bin/xattr '-crs' '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app'
+2021-09-14 11:07:22 +0000  /usr/bin/xattr exited with 0
+2021-09-14 11:07:22 +0000  Processing step: IDEDistributionCodesignStep
+2021-09-14 11:07:22 +0000  Entitlements for <IDEDistributionItem: 0x13ab52580; bundleID='getsuperlife.super-ui-ios', path='<DVTFilePath:0x11ccf8170:'/Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x1499a04a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x2c714b1e0; name='Apple Development: Tarun Valecha (939U894Q8J)', hash='93C001A6F434CBAC7902D822EFAC12A5068338B8', serialNumber='<DVTSigningCertificateSerialNumber: 0x2c716db70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-14 05:42:03 +0000''>', entitlements='{
+    "application-identifier" = "TT64352TY2.getsuperlife.super-ui-ios";
+    "com.apple.developer.team-identifier" = TT64352TY2;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TT64352TY2.getsuperlife.super-ui-ios"
+    );
+}', teamID='TT64352TY2', identifier='getsuperlife.super-ui-ios', executablePath='<DVTFilePath:0x2c73525f0:'/Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app/super-ui-ios'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "TT64352TY2.getsuperlife.super-ui-ios";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = TT64352TY2;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "TT64352TY2.getsuperlife.super-ui-ios"
+    );
+}
+2021-09-14 11:07:22 +0000  Entitlements for <IDEDistributionItem: 0x13ab52580; bundleID='getsuperlife.super-ui-ios', path='<DVTFilePath:0x11ccf8170:'/Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x1499a04a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x2c563b3b0; name='Apple Development: Tarun Valecha (939U894Q8J)', hash='93C001A6F434CBAC7902D822EFAC12A5068338B8', serialNumber='<DVTSigningCertificateSerialNumber: 0x13ff65170>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-14 05:42:03 +0000''>', entitlements='{
+    "application-identifier" = "TT64352TY2.getsuperlife.super-ui-ios";
+    "com.apple.developer.team-identifier" = TT64352TY2;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TT64352TY2.getsuperlife.super-ui-ios"
+    );
+}', teamID='TT64352TY2', identifier='getsuperlife.super-ui-ios', executablePath='<DVTFilePath:0x2c73525f0:'/Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app/super-ui-ios'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "TT64352TY2.getsuperlife.super-ui-ios";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = TT64352TY2;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "TT64352TY2.getsuperlife.super-ui-ios"
+    );
+}
+2021-09-14 11:07:22 +0000  Writing entitlements for <IDEDistributionItem: 0x13ab52580; bundleID='getsuperlife.super-ui-ios', path='<DVTFilePath:0x11ccf8170:'/Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x1499a04a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x13ab586d0; name='Apple Development: Tarun Valecha (939U894Q8J)', hash='93C001A6F434CBAC7902D822EFAC12A5068338B8', serialNumber='<DVTSigningCertificateSerialNumber: 0x2c71f0bc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-09-14 05:42:03 +0000''>', entitlements='{
+    "application-identifier" = "TT64352TY2.getsuperlife.super-ui-ios";
+    "com.apple.developer.team-identifier" = TT64352TY2;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "TT64352TY2.getsuperlife.super-ui-ios"
+    );
+}', teamID='TT64352TY2', identifier='getsuperlife.super-ui-ios', executablePath='<DVTFilePath:0x2c73525f0:'/Users/vipulsharma/Library/Developer/Xcode/Archives/2021-09-14/super-ui-ios 14-09-21, 4.31 PM.xcarchive/Products/Applications/super-ui-ios.app/super-ui-ios'>', hardenedRuntime='0'>'> to: /var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/entitlements~~~gwd9MF
+2021-09-14 11:07:22 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '3154F381790EE57EB2C1415C93C44F10375F0778' '--entitlements' '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/entitlements~~~gwd9MF' '--preserve-metadata=identifier,flags,runtime' '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app'
+2021-09-14 11:07:28 +0000  /var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app: signed app bundle with Mach-O thin (arm64) [getsuperlife.super-ui-ios]
+2021-09-14 11:07:28 +0000  /usr/bin/codesign exited with 0
+2021-09-14 11:07:28 +0000  Processing step: IDEDistributionZipODRItemStep
+2021-09-14 11:07:28 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2021-09-14 11:07:28 +0000  Processing step: IDEDistributionCreateIPAStep
+2021-09-14 11:07:28 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root' '/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Packages/super-ui-ios.ipa'
+2021-09-14 11:07:28 +0000  >>> Copying /var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root 
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/_CodeSignature/CodeResources ... 
+2021-09-14 11:07:28 +0000  4101 bytes for ./Payload/super-ui-ios.app/_CodeSignature/CodeResources
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/super-ui-ios ... 
+2021-09-14 11:07:28 +0000  139776 bytes for ./Payload/super-ui-ios.app/super-ui-ios
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2021-09-14 11:07:28 +0000  936 bytes for ./Payload/super-ui-ios.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2021-09-14 11:07:28 +0000  1197 bytes for ./Payload/super-ui-ios.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/super-ui-ios.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2021-09-14 11:07:28 +0000  258 bytes for ./Payload/super-ui-ios.app/Base.lproj/Main.storyboardc/Info.plist
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2021-09-14 11:07:28 +0000  2486 bytes for ./Payload/super-ui-ios.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2021-09-14 11:07:28 +0000  896 bytes for ./Payload/super-ui-ios.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2021-09-14 11:07:28 +0000  258 bytes for ./Payload/super-ui-ios.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/Assets.car ... 
+2021-09-14 11:07:28 +0000  1168703 bytes for ./Payload/super-ui-ios.app/Assets.car
+copying file ./Payload/super-ui-ios.app/embedded.mobileprovision ... 
+2021-09-14 11:07:28 +0000  15975 bytes for ./Payload/super-ui-ios.app/embedded.mobileprovision
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/Info.plist ... 
+2021-09-14 11:07:28 +0000  1475 bytes for ./Payload/super-ui-ios.app/Info.plist
+2021-09-14 11:07:28 +0000  copying file ./Payload/super-ui-ios.app/PkgInfo ... 
+8 bytes for ./Payload/super-ui-ios.app/PkgInfo
+2021-09-14 11:07:28 +0000  /usr/bin/ditto exited with 0
+2021-09-14 11:07:28 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2021-09-14 11:07:28 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2021-09-14 11:07:28 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2021-09-14 11:07:28 +0000  IDEDistributionItem init <DVTFilePath:0x2c5641bc0:'/var/folders/98/ggnpw9956s9gjrbbfdnky3g40000gn/T/XcodeDistPipeline.~~~e7HQQ1/Root/Payload/super-ui-ios.app'>
+2021-09-14 11:07:28 +0000  Processing step: IDEDistributionCreateManifestStep
+2021-09-14 11:07:28 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so

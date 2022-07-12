@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.addSubview(webView)
         
-        guard let url = URL(string: "https://mysuper.link") else {
+        guard let url = URL(string: "https://tix-app-gatotkaca.tiket.com/home") else {
         return }
         webView.load(URLRequest(url: url))
         webView.customUserAgent = "ipad/iphone/macbook"

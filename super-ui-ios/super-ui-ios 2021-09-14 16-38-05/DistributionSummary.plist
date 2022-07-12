@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>super-ui-ios.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>3154F381790EE57EB2C1415C93C44F10375F0778</string>
+				<key>dateExpires</key>
+				<string>14/09/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>TT64352TY2.getsuperlife.super-ui-ios</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>TT64352TY2</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>TT64352TY2.getsuperlife.super-ui-ios</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>super-ui-ios.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d694b384-5eea-439f-b5e6-c25a2d803e02</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: getsuperlife.super-ui-ios</string>
+			</dict>
+			<key>symbols</key>
+			<false/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>TT64352TY2</string>
+				<key>name</key>
+				<string>Tarun Valecha</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
